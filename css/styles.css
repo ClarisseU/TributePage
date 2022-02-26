@@ -1,0 +1,12 @@
+.jumbotron {
+    background-color: rgb(49, 47, 47);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: whitesmoke;
+    text-align: center;
+}
+img {
+    position: relative;
+}
